@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+.metadata
+.sonarlint
+**/*.jar
+**/*.war
+**/*.ear
+**/*.class
